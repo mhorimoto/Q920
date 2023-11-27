@@ -1618,7 +1618,7 @@
     (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" (at 201.168 85.598 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 201.168 85.598 0)
+    (property "Datasheet" "https://akizukidenshi.com/catalog/g/gP-08426/" (at 201.168 85.598 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid 038999ff-ede2-4782-8b20-bfdc08624581))
